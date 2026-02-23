@@ -97,16 +97,12 @@ SquigAI builds **local-first, privacy-respecting AI tools** — no data harvesti
 
 A **Tauri + Svelte AI code editor** with multi-agent workspaces, integrated terminal, team chat, voice input, and vector search over your codebase. Built on CodeMirror 6 with 14+ language support.
 
-[![Releases](https://img.shields.io/badge/Get_It-squig--power--code--releases-8B5CF6?style=flat-square)](https://github.com/hayesjl77/squig-power-code-releases)
-
 </td>
 <td width="50%" valign="top">
 
 ### 🎨 Squigify
 
 An **AI-powered photo editor** — think Photoshop meets Stable Diffusion. Full layer system, 30+ filters, text-to-image, inpainting, InstructPix2Pix, and local model hot-swapping. Built with PyQt6 + FastAPI.
-
-`Coming Soon`
 
 </td>
 </tr>
@@ -117,16 +113,12 @@ An **AI-powered photo editor** — think Photoshop meets Stable Diffusion. Full 
 
 A **visual desktop app for training AI models** on your own GPU. Supports LLMs, Vision, Video, and Music models with LoRA/QLoRA, real-time metrics, 140+ model browser, and benchmark testing. Electron + FastAPI.
 
-`Coming Soon`
-
 </td>
 <td width="50%" valign="top">
 
 ### 💰 Squig Budget
 
 A **full-featured budgeting web app** with bank linking (Teller API), bill tracking, income management, cash flow charts, grocery lists, spending reports, and household sharing. Next.js + Supabase.
-
-`Coming Soon`
 
 </td>
 </tr>
@@ -137,16 +129,28 @@ A **full-featured budgeting web app** with bank linking (Teller API), bill track
 
 An ambitious **Microsoft Office alternative for Linux** — Word, Excel, PowerPoint, and Visio editors built on .NET 9 + Avalonia UI with near-100% fidelity to Office 365 via OpenXML + SkiaSharp rendering.
 
-`In Development`
+</td>
+<td width="50%" valign="top">
+
+### 💼 Squig Freelance
+
+An **AI-powered bookkeeping and project management SaaS** for developers. Automated GitHub-to-Invoice pipelines, client management, revenue tracking, and a complete business command center.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎯 Squig Head Track
 
 **6DOF head tracking for Linux** — reverse-engineering the Tobii Eye Tracker 5 to unlock head pose data locked behind Windows-only services. Raw IR camera capture via libusb/UVC + biomechanical EKF pipeline.
 
-[![Repo](https://img.shields.io/badge/View_Repo-squig--head--track-blue?style=flat-square)](https://github.com/hayesjl77/squig-head-track)
+</td>
+<td width="50%" valign="top">
+
+### 🐛 Squigly
+
+A **utility tool** in the SquigAI ecosystem — lightweight, focused, and built to solve a specific problem well.
 
 </td>
 </tr>
@@ -156,10 +160,10 @@ An ambitious **Microsoft Office alternative for Linux** — Word, Excel, PowerPo
 
 ## 🎮 Other Projects
 
-| Project                                                                   | Description                           | Language  |
-| ------------------------------------------------------------------------- | ------------------------------------- | --------- |
-| [**Star-Citizen-Parse**](https://github.com/hayesjl77/Star-Citizen-Parse) | Game log file parser for Star Citizen | Python ⭐ |
-| [**supersniff**](https://github.com/hayesjl77/supersniff)                 | Silent pentest network mapper         | Python    |
+| Project                | Description                           | Language  |
+| ---------------------- | ------------------------------------- | --------- |
+| **Star-Citizen-Parse** | Game log file parser for Star Citizen | Python ⭐ |
+| **supersniff**         | Silent pentest network mapper         | Python    |
 
 ---
 
