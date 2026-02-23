@@ -7,6 +7,7 @@
 <br/>
 
 [![Website](https://img.shields.io/badge/squig--ai.com-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.squig-ai.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayesjl77/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hayesjl77)
 [![Location](https://img.shields.io/badge/South_Point,_OH-USA-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
