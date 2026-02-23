@@ -150,7 +150,7 @@ An **AI-powered bookkeeping and project management SaaS** for developers. Automa
 
 ### 🐛 Squigly
 
-A **utility tool** in the SquigAI ecosystem — lightweight, focused, and built to solve a specific problem well.
+A **YouTube analytics and AI coaching SaaS** — connect your channel, get AI-powered content analysis, track video and shorts performance, and manage subscriptions via Stripe. Built with Next.js + Google APIs + Supabase.
 
 </td>
 </tr>
